@@ -16,6 +16,6 @@ My name is Sergei and i'm a future front-end dev. I'm from Russia, living in Mos
 <h1><img src="cats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pluxusy&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluxusy&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yahhas-dev&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahhas-dev&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
 </div>
